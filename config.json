@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "鞍山中考化学·知识点诊断测试",
+    "subject": "化学（九年级）",
+    "grade": "九年级",
+    "source": "zhongkao-coach-v3.0-chemistry",
+    "color": "#E85D04",
+    "colorLight": "#FFF3E6",
+    "timeRange": "20-30"
+  },
+  "examDistribution": [
+    {"topic": "物质的分类", "choice": 2, "fill": 0},
+    {"topic": "微观粒子与化学式", "choice": 1, "fill": 1},
+    {"topic": "化学方程式", "choice": 1, "fill": 1},
+    {"topic": "溶液", "choice": 1, "fill": 1},
+    {"topic": "酸碱盐", "choice": 2, "fill": 0},
+    {"topic": "常见气体", "choice": 1, "fill": 1},
+    {"topic": "化学实验基本操作", "choice": 1, "fill": 0},
+    {"topic": "金属与金属活动性", "choice": 1, "fill": 1},
+    {"topic": "化学与生活", "choice": 1, "fill": 0},
+    {"topic": "化学计算", "choice": 1, "fill": 0},
+    {"topic": "水的净化与组成", "choice": 1, "fill": 0},
+    {"topic": "燃烧与灭火", "choice": 1, "fill": 0}
+  ],
+  "questionFiles": ["chemistry-questions.js"],
+  "startInfo": [
+    "科目：化学（九年级）",
+    "题数：20 题（随机组卷）",
+    "用时：约 20-30 分钟"
+  ]
+}
