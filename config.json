@@ -6,7 +6,11 @@
     "source": "zhongkao-coach-v3.0-chemistry",
     "color": "#E85D04",
     "colorLight": "#FFF3E6",
-    "timeRange": "20-30"
+    "timeRange": "20-30",
+    "submitConfig": {
+      "workerUrl": "https://zk-submit.livv99622.workers.dev",
+      "apiKey": "wt2qHBloX7dcQ5naRz_ia5kwDhc-CeZh"
+    }
   },
   "examDistribution": [
     {"topic": "物质的分类", "choice": 2, "fill": 0},
